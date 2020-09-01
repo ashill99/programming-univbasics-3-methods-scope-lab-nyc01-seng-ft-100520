@@ -12,3 +12,7 @@ def link
   sword = "It's Dangerous To Go Alone! Take This."
   puts sword
 end 
+
+def all_phrases 
+  
+end 
